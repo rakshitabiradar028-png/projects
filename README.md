@@ -1,2 +1,2 @@
 # projects
-amazone_clone_project
+amazon_clone_project
